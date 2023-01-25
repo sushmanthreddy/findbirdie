@@ -12,7 +12,4 @@ All the code for training the model and exporting to ONNX format is present in t
 
 You can try out the model on [Hugging Face Spaces](https://huggingface.co/spaces/sushmanth/findbirdie)
 
-## 🖥️ Sample Interface
 
-![Sample Inference](samples/sample1.png)
-![Sample Inference](samples/sample2.png)
